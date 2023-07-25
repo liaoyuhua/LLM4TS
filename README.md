@@ -6,12 +6,17 @@
 
 ## Related Fields
 
+### PreTrained Time Series
+* A Survey on Time-Series Pre-Trained Models, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.10716)
+* Transfer learning for Time Series Forecasting. [\[GitHub\]](https://github.com/Nixtla/transfer-learning-time-series)
+
 ### LLM for Recommendation Systems
-* Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), in *arXiv* 2022. [\[Paper\]](https://arxiv.org/pdf/2203.13366)
+* Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), in *arXiv* 2022. [\[Paper\]](https://arxiv.org/abs/2203.13366)
 * LLM4Rec. [\[GitHub\]](https://github.com/WLiK/LLM4Rec)
 
+
+### LLM for Tabular Data
+* AnyPredict: Foundation Model for Tabular Prediction, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.12081)
+
 ### LLM in Production (LLMOps)
-
 * Awesome-LLMOps. [\[GitHub\]](https://github.com/tensorchord/Awesome-LLMOps)
-
-
