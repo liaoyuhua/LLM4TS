@@ -3,6 +3,7 @@
 
 ## LLM for Time Series
 * One Fits All: Power General Time Series Analysis by Pretrained LM, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2302.11939) 
+* Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2306.11025)
 
 ## Related Fields
 
