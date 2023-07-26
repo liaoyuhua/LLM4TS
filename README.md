@@ -16,8 +16,9 @@
 * LLM4Rec. [\[GitHub\]](https://github.com/WLiK/LLM4Rec)
 
 
-### LLM for Tabular Data
+### LLM/FM for Tabular Data
 * AnyPredict: Foundation Model for Tabular Prediction, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.12081)
+* XTab: Cross-table Pretraining for Tabular Transformers, in *ICML* 2023. [\[Paper\]](https://arxiv.org/abs/2305.06090)
 
 ### LLM in Production (LLMOps)
 * Awesome-LLMOps. [\[GitHub\]](https://github.com/tensorchord/Awesome-LLMOps)
