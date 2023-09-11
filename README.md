@@ -2,10 +2,18 @@
 
 
 ## LLM for Time Series
+
+### Methodology
+
+* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting Hao, in *arXiv* 2022. [\[Paper\]](https://arxiv.org/abs/2210.08964)
 * One Fits All: Power General Time Series Analysis by Pretrained LM, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2302.11939) 
 * Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2306.11025)
 * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series. [\[Paper\]](https://arxiv.org/abs/2308.08241)
 * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs. [\[Paper\]](https://arxiv.org/abs/2308.08469)
+
+### Things can inspire you
+* Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.15525)
+* Frozen Language Model Helps ECG Zero-Shot Learning, in *arXiv* 2023.[\[Paper\]](https://arxiv.org/abs/2303.12311)
 
 ## Related Fields
 
