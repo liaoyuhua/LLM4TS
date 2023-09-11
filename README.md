@@ -11,7 +11,7 @@
 * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series. [\[Paper\]](https://arxiv.org/abs/2308.08241)
 * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs. [\[Paper\]](https://arxiv.org/abs/2308.08469)
 
-### Things can inspire you
+### Similar Things
 * Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.15525)
 * Frozen Language Model Helps ECG Zero-Shot Learning, in *arXiv* 2023.[\[Paper\]](https://arxiv.org/abs/2303.12311)
 
