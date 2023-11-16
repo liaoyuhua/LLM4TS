@@ -22,6 +22,10 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 * Time-LLM: Time Series Forecasting by Reprogramming Large Language Models. [\[Paper\]](https://arxiv.org/abs/2310.01728)
 
+### 📍 Survey
+
+* Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook. [\[Survey\]](https://arxiv.org/abs/2310.10196)
+
 ### 📍 Similar Things
 * Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.15525)
 * Frozen Language Model Helps ECG Zero-Shot Learning, in *arXiv* 2023.[\[Paper\]](https://arxiv.org/abs/2303.12311)
