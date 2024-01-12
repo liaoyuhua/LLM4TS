@@ -34,6 +34,8 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 *Recently, some kinds of Foundation Models (FMs) for Time Series (TS) have been proposed. These FMs aims to learn the representation of Time Series from large datasets and then transfer the representation to downstream tasks. Compared with TS-LLMs, these methods do not depend on the pretrained LLMs.*
 
+* Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series [\[Paper\]](https://arxiv.org/abs/2401.03955)
+
 * A decoder-only foundation model for time-series forecasting. [\[Paper\]](https://arxiv.org/abs/2310.10688)
 
 * TimeGPT-1. [\[Paper\]](https://arxiv.org/abs/2310.03589?ref=emergentmind)
