@@ -26,13 +26,15 @@
 
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook. [\[Survey\]](https://arxiv.org/abs/2310.10196)
 
-### 📍 类型的工作
+### 📍 类似的工作
 * Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.15525)
 * Frozen Language Model Helps ECG Zero-Shot Learning, in *arXiv* 2023.[\[Paper\]](https://arxiv.org/abs/2303.12311)
 
 ## 🧱 基座模型与时间序列
 
 *最近，一些时间序列（TS）的基座模型（FMs）被提出。这些FMs旨在从大型数据集中学习时间序列的表示，并将表示转移到下游任务中。与TS-LLM相比，这些方法不依赖预训练的LLMs。*
+
+* Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series. [\[Paper\]](https://arxiv.org/abs/2401.03955)
 
 * A decoder-only foundation model for time-series forecasting. [\[Paper\]](https://arxiv.org/abs/2310.10688)
 
