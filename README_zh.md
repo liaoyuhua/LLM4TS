@@ -1,6 +1,10 @@
+<div align='center'>
+
 [English](README.md) | 简体中文
 
 # LLM4TS: Large Language Models for Time Series
+
+</div>
 
 这个项目收集了大型语言模型（LLMs）和基础模型（FMs）在时间序列（TS）方面的论文和代码。希望这个项目能帮助你理解LLMs和FMs在时间序列方面的应用。
 

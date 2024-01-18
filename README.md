@@ -1,6 +1,10 @@
+<div align='center'>
+
 English | [简体中文](README_zh.md)
 
 # LLM4TS: Large Language Models for Time Series
+
+</div>
 
 This project collects the papers and codes of Large Language Models (LLMs) and Foundation Models (FMs) for Time Series (TS). Hope this project can help you to understand the LLMs and FMs for TS.
 
