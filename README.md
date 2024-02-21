@@ -30,6 +30,8 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook. [\[Survey\]](https://arxiv.org/abs/2310.10196)
 
+* Position Paper: What Can Large Language Models Tell Us about Time Series Analysis. [\[Survey\]](https://arxiv.org/abs/2402.02713)
+
 ### 📍 Similar Things
 * Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.15525)
 * Frozen Language Model Helps ECG Zero-Shot Learning, in *arXiv* 2023.[\[Paper\]](https://arxiv.org/abs/2303.12311)
@@ -45,6 +47,8 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 * TimeGPT-1. [\[Paper\]](https://arxiv.org/abs/2310.03589?ref=emergentmind)
 
 * Lag-Llama: Towards Foundation Models for Time Series Forecasting. [\[Paper\]](https://arxiv.org/abs/2310.08278)
+
+* Unified Training of Universal Time Series Forecasting Transformers. [\[Paper\]](https://arxiv.org/abs/2402.02592)
 
 ## 🔗 Related Fields
 *Here, some related fields are listed. These fields are not the main focus of this project, but they are also important for understanding how LLMs are applied to other fields rather than NLP and FMs in specific fields are developed.*

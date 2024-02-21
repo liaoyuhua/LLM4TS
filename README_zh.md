@@ -30,6 +30,8 @@
 
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook. [\[Survey\]](https://arxiv.org/abs/2310.10196)
 
+* Position Paper: What Can Large Language Models Tell Us about Time Series Analysis. [\[Survey\]](https://arxiv.org/abs/2402.02713)
+
 ### 📍 类似的工作
 * Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.15525)
 * Frozen Language Model Helps ECG Zero-Shot Learning, in *arXiv* 2023.[\[Paper\]](https://arxiv.org/abs/2303.12311)
@@ -45,6 +47,8 @@
 * TimeGPT-1. [\[Paper\]](https://arxiv.org/abs/2310.03589?ref=emergentmind)
 
 * Lag-Llama: Towards Foundation Models for Time Series Forecasting. [\[Paper\]](https://arxiv.org/abs/2310.08278)
+
+* Unified Training of Universal Time Series Forecasting Transformers. [\[Paper\]](https://arxiv.org/abs/2402.02592)
 
 ## 🔗 相关领域
 *这里列出了一些相关领域。这些领域并非本项目的主要关注点，但它们对于理解LLMs如何应用于除了NLP之外的其他领域，以及其他特定领域如何构建基座模型也很重要。*
