@@ -57,6 +57,8 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 * MOMENT: A Family of Open Time-series Foundation Models. [\[Paper\]](https://arxiv.org/abs/2402.03885)
 
+* Chronos: Learning the Language of Time Series [\[Paper\]](https://arxiv.org/abs/2403.07815) [\[GitHub\]](https://github.com/amazon-science/chronos-forecasting)
+
 ## 🔗 Related Fields
 *Here, some related fields are listed. These fields are not the main focus of this project, but they are also important for understanding how LLMs are applied to other fields rather than NLP and FMs in specific fields are developed.*
 

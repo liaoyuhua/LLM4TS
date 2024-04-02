@@ -57,6 +57,8 @@
 
 * MOMENT: A Family of Open Time-series Foundation Models. [\[Paper\]](https://arxiv.org/abs/2402.03885)
 
+* Chronos: Learning the Language of Time Series [\[Paper\]](https://arxiv.org/abs/2403.07815) [\[GitHub\]](https://github.com/amazon-science/chronos-forecasting)
+
 ## 🔗 相关领域
 *这里列出了一些相关领域。这些领域并非本项目的主要关注点，但它们对于理解LLMs如何应用于除了NLP之外的其他领域，以及其他特定领域如何构建基座模型也很重要。*
 
