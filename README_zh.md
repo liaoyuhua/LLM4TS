@@ -32,8 +32,11 @@
 
 * Position Paper: What Can Large Language Models Tell Us about Time Series Analysis. [\[Survey\]](https://arxiv.org/abs/2402.02713)
 
+* Foundation Models for Time Series Analysis: A Tutorial and Survey [\[Survey\]](https://arxiv.org/abs/2403.14735)
+
 ### 📍 类似的工作
 * Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.15525)
+
 * Frozen Language Model Helps ECG Zero-Shot Learning, in *arXiv* 2023.[\[Paper\]](https://arxiv.org/abs/2303.12311)
 
 ## 🧱 基座模型与时间序列
@@ -49,6 +52,8 @@
 * Lag-Llama: Towards Foundation Models for Time Series Forecasting. [\[Paper\]](https://arxiv.org/abs/2310.08278)
 
 * Unified Training of Universal Time Series Forecasting Transformers. [\[Paper\]](https://arxiv.org/abs/2402.02592)
+
+* MOMENT: A Family of Open Time-series Foundation Models. [\[Paper\]](https://arxiv.org/abs/2402.03885)
 
 ## 🔗 相关领域
 *这里列出了一些相关领域。这些领域并非本项目的主要关注点，但它们对于理解LLMs如何应用于除了NLP之外的其他领域，以及其他特定领域如何构建基座模型也很重要。*
