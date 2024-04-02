@@ -26,6 +26,8 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 * Time-LLM: Time Series Forecasting by Reprogramming Large Language Models. [\[Paper\]](https://arxiv.org/abs/2310.01728)
 
+* S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting. [\[Paper\]](https://arxiv.org/pdf/2403.05798.pdf)
+
 ### 📍 Survey
 
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook. [\[Survey\]](https://arxiv.org/abs/2310.10196)
