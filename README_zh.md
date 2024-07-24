@@ -28,6 +28,8 @@
 
 * S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting. [\[Paper\]](https://arxiv.org/pdf/2403.05798.pdf)
 
+* Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities. [\[Paper\]](https://arxiv.org/abs/2402.10835)
+
 ### 📍 综述
 
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook. [\[Survey\]](https://arxiv.org/abs/2310.10196)
@@ -35,6 +37,8 @@
 * Position Paper: What Can Large Language Models Tell Us about Time Series Analysis. [\[Survey\]](https://arxiv.org/abs/2402.02713)
 
 * Foundation Models for Time Series Analysis: A Tutorial and Survey [\[Survey\]](https://arxiv.org/abs/2403.14735)
+
+* Are Language Models Actually Useful for Time Series Forecasting? [\[Survey\]](https://arxiv.org/abs/2406.16964)
 
 ### 📍 类似的工作
 * Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.15525)
@@ -57,7 +61,9 @@
 
 * MOMENT: A Family of Open Time-series Foundation Models. [\[Paper\]](https://arxiv.org/abs/2402.03885)
 
-* Chronos: Learning the Language of Time Series [\[Paper\]](https://arxiv.org/abs/2403.07815) [\[GitHub\]](https://github.com/amazon-science/chronos-forecasting)
+* Chronos: Learning the Language of Time Series. [\[Paper\]](https://arxiv.org/abs/2403.07815) [\[GitHub\]](https://github.com/amazon-science/chronos-forecasting)
+
+* ForecastPFN: Synthetically-Trained Zero-Shot Forecasting. [\[Paper\]](https://arxiv.org/abs/2311.01933) [\[GitHub\]](https://github.com/abacusai/ForecastPFN)
 
 ## 🔗 相关领域
 *这里列出了一些相关领域。这些领域并非本项目的主要关注点，但它们对于理解LLMs如何应用于除了NLP之外的其他领域，以及其他特定领域如何构建基座模型也很重要。*

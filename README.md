@@ -28,6 +28,8 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 * S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting. [\[Paper\]](https://arxiv.org/pdf/2403.05798.pdf)
 
+* Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities. [\[Paper\]](https://arxiv.org/abs/2402.10835)
+
 ### 📍 Survey
 
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook. [\[Survey\]](https://arxiv.org/abs/2310.10196)
@@ -35,6 +37,9 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 * Position Paper: What Can Large Language Models Tell Us about Time Series Analysis. [\[Survey\]](https://arxiv.org/abs/2402.02713)
 
 * Foundation Models for Time Series Analysis: A Tutorial and Survey [\[Survey\]](https://arxiv.org/abs/2403.14735)
+
+* Are Language Models Actually Useful for Time Series Forecasting? [\[Survey\]](https://arxiv.org/abs/2406.16964)
+
 
 ### 📍 Similar Things
 * Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.15525)
@@ -57,7 +62,9 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 * MOMENT: A Family of Open Time-series Foundation Models. [\[Paper\]](https://arxiv.org/abs/2402.03885)
 
-* Chronos: Learning the Language of Time Series [\[Paper\]](https://arxiv.org/abs/2403.07815) [\[GitHub\]](https://github.com/amazon-science/chronos-forecasting)
+* Chronos: Learning the Language of Time Series. [\[Paper\]](https://arxiv.org/abs/2403.07815) [\[GitHub\]](https://github.com/amazon-science/chronos-forecasting)
+
+* ForecastPFN: Synthetically-Trained Zero-Shot Forecasting. [\[Paper\]](https://arxiv.org/abs/2311.01933) [\[GitHub\]](https://github.com/abacusai/ForecastPFN)
 
 ## 🔗 Related Fields
 *Here, some related fields are listed. These fields are not the main focus of this project, but they are also important for understanding how LLMs are applied to other fields rather than NLP and FMs in specific fields are developed.*
