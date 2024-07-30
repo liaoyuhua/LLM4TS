@@ -49,6 +49,16 @@
 
 *最近，一些时间序列（TS）的基座模型（FMs）被提出。这些FMs旨在从大型数据集中学习时间序列的表示，并将表示转移到下游任务中。与TS-LLM相比，这些方法不依赖预训练的LLMs。*
 
+### 📍 数据
+
+* **LOTSA** [\[Paper\]](https://arxiv.org/abs/2402.02592) [\[GitHub\]](https://github.com/SalesforceAIResearch/uni2ts?tab=readme-ov-file)
+
+* **Timeseries-PILE** [\[Paper\]](https://arxiv.org/abs/2402.03885) [\[GitHub\]](https://github.com/moment-timeseries-foundation-model/moment)
+
+* Towards Foundation Time Series Model: To Synthesize Or Not To Synthesize? [\[Paper\]](https://arxiv.org/abs/2403.02534)
+
+### 📍 模型
+
 * Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series. [\[Paper\]](https://arxiv.org/abs/2401.03955)
 
 * A decoder-only foundation model for time-series forecasting. [\[Paper\]](https://arxiv.org/abs/2310.10688)
@@ -64,6 +74,17 @@
 * Chronos: Learning the Language of Time Series. [\[Paper\]](https://arxiv.org/abs/2403.07815) [\[GitHub\]](https://github.com/amazon-science/chronos-forecasting)
 
 * ForecastPFN: Synthetically-Trained Zero-Shot Forecasting. [\[Paper\]](https://arxiv.org/abs/2311.01933) [\[GitHub\]](https://github.com/abacusai/ForecastPFN)
+
+### 📍 发现
+
+ * Scaling Law for Time Series Forecasting. [\[Paper\]](https://arxiv.org/abs/2405.15124)
+
+* Only the Curve Shape Matters: Training Foundation Models for Zero-Shot Multivariate Time Series Forecasting through Next Curve Shape Prediction. [\[Paper\]](https://www.arxiv.org/abs/2402.07570)
+
+### 📍 综述
+
+* Foundation Models for Time Series Analysis: A Tutorial and Survey. [\[Survey\]](https://arxiv.org/abs/2403.14735)
+
 
 ## 🔗 相关领域
 *这里列出了一些相关领域。这些领域并非本项目的主要关注点，但它们对于理解LLMs如何应用于除了NLP之外的其他领域，以及其他特定领域如何构建基座模型也很重要。*

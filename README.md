@@ -2,11 +2,12 @@
 
 English | [简体中文](README_zh.md)
 
-# LLM4TS: Large Language Models for Time Series
+# LLM4TS: Large Language & Foundation Models for Time Series
 
 </div>
 
 This project collects the papers and codes of Large Language Models (LLMs) and Foundation Models (FMs) for Time Series (TS). Hope this project can help you to understand the LLMs and FMs for TS.
+
 
 ## 🦙 LLMs for Time Series
 
@@ -36,7 +37,7 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 * Position Paper: What Can Large Language Models Tell Us about Time Series Analysis. [\[Survey\]](https://arxiv.org/abs/2402.02713)
 
-* Foundation Models for Time Series Analysis: A Tutorial and Survey [\[Survey\]](https://arxiv.org/abs/2403.14735)
+* Foundation Models for Time Series Analysis: A Tutorial and Survey. [\[Survey\]](https://arxiv.org/abs/2403.14735)
 
 * Are Language Models Actually Useful for Time Series Forecasting? [\[Survey\]](https://arxiv.org/abs/2406.16964)
 
@@ -46,9 +47,19 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 * Frozen Language Model Helps ECG Zero-Shot Learning, in *arXiv* 2023.[\[Paper\]](https://arxiv.org/abs/2303.12311)
 
-## 🧱 Foundation Models for Time Series
 
+## 🧱 Foundation Models for Time Series
 *Recently, some kinds of Foundation Models (FMs) for Time Series (TS) have been proposed. These FMs aims to learn the representation of Time Series from large datasets and then transfer the representation to downstream tasks. Compared with TS-LLMs, these methods do not depend on the pretrained LLMs.*
+
+### 📍 Data
+
+* **LOTSA** [\[Paper\]](https://arxiv.org/abs/2402.02592) [\[GitHub\]](https://github.com/SalesforceAIResearch/uni2ts?tab=readme-ov-file)
+
+* **Timeseries-PILE** [\[Paper\]](https://arxiv.org/abs/2402.03885) [\[GitHub\]](https://github.com/moment-timeseries-foundation-model/moment)
+
+* Towards Foundation Time Series Model: To Synthesize Or Not To Synthesize? [\[Paper\]](https://arxiv.org/abs/2403.02534)
+
+### 📍 Models
 
 * Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series. [\[Paper\]](https://arxiv.org/abs/2401.03955)
 
@@ -65,6 +76,17 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 * Chronos: Learning the Language of Time Series. [\[Paper\]](https://arxiv.org/abs/2403.07815) [\[GitHub\]](https://github.com/amazon-science/chronos-forecasting)
 
 * ForecastPFN: Synthetically-Trained Zero-Shot Forecasting. [\[Paper\]](https://arxiv.org/abs/2311.01933) [\[GitHub\]](https://github.com/abacusai/ForecastPFN)
+
+### 📍 Findings
+
+* Scaling Law for Time Series Forecasting. [\[Paper\]](https://arxiv.org/abs/2405.15124)
+
+* Only the Curve Shape Matters: Training Foundation Models for Zero-Shot Multivariate Time Series Forecasting through Next Curve Shape Prediction. [\[Paper\]](https://www.arxiv.org/abs/2402.07570)
+
+### 📍 Surveys
+
+* Foundation Models for Time Series Analysis: A Tutorial and Survey. [\[Survey\]](https://arxiv.org/abs/2403.14735)
+
 
 ## 🔗 Related Fields
 *Here, some related fields are listed. These fields are not the main focus of this project, but they are also important for understanding how LLMs are applied to other fields rather than NLP and FMs in specific fields are developed.*
